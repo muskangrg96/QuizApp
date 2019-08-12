@@ -1,0 +1,134 @@
+<resources>
+    <!-- APP DETAILS -->
+    <string name="app_name">Quiz App</string>
+    <string name="app_version">1.0</string>
+
+    <!--ERROR MESSAGES-->
+    <string name="please_wait">Please wait…</string>
+    <string name="coming_soon">Coming soon</string>
+    <string name="no_internet">Please connect to internet!</string>
+    <string name="field_empty">Field can not be empty</string>
+    <string name="invalid">Invalid</string>
+
+    <!--SYMBOLS-->
+    <string name="rupee">\u20B9</string>
+
+    <!--TITLE-->
+    <string name="title_home">Duress</string>
+    <string name="title_forgot_password">FORGOT PASSWORD</string>
+    <string name="title_duress_config_sett">DURESS CONFIGURATION</string>
+    <string name="title_headphone">Headphone</string>
+    <string name="title_shake">shake</string>
+    <string name="title_toggle">toggle duress</string>
+    <string name="title_sos">sos duress</string>
+    <string name="title_checkin">check in</string>
+    <string name="title_geo_fencing">location</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_contact">Emergency contacts</string>
+    <string name="title_add_contact">Add contact</string>
+    <string name="title_biometric">biometric authentication</string>
+    <string name="title_change_password">Change Password</string>
+    <string name="title_manage">manage provider</string>
+    <string name="title_service">service provider</string>
+    <string name="title_package">packages</string>
+    <string name="title_notification">notifications</string>
+
+    <string name="welcome_text">Welcome Alevant</string>
+    <string name="logout">Logout</string>
+    <!--<string name="logout_text"><![CDATA[<b><font color=#FF0000>If you logout Duress will no longer be functional.
+    \n</font></b>]]Are you sure You want to Logout?</string>-->
+    <string name="logout_text">Are you sure You want to Logout?</string>
+    <!--Broadcast message-->
+    <string name="headset_unplugged">Headset is unplugged</string>
+    <string name="headset_plugged">Headset is plugged</string>
+    <string name="headset_stateless">I have no idea what the headset state is</string>
+
+    <string name="instructions">Place your fingertip on the Fingerprint sensor to verify your identity</string>
+
+    <!--finger orint -->
+    <string name="btn_authenticate">Login</string>
+
+    <string name="biometric_title">Login</string>
+    <string name="biometric_subtitle">Login to your Osta account</string>
+    <string name="biometric_description">Place your finger on the device home button to verify your identity</string>
+    <string name="biometric_negative_button_text">CANCEL</string>
+
+
+    <string name="biometric_error_sdk_not_supported">Sdk version not supported</string>
+    <string name="biometric_error_hardware_not_supported">Device does not support biometric authentication</string>
+    <string name="biometric_error_fingerprint_not_available">Fingerprint is not registered in device</string>
+    <string name="biometric_error_permission_not_granted">Permission is not granted by user</string>
+    <string name="biometric_failure">Login not successful!</string>
+    <string name="biometric_cancelled">Authentication cancelled by user</string>
+    <string name="biometric_success">Successful</string>
+
+    <!--camera and gallery-->
+    <string name="action_settings">Settings</string>
+
+    <string name="profile_desc">Rowan Sebastian Atkinson CBE is an English actor, comedian and screenwriter</string>
+
+    <string name="profile_title">Mr Bean</string>
+
+    <string name="posts">posts</string>
+
+    <string name="followers">followers</string>
+
+    <string name="following">following</string>
+
+    <string name="msg_error_unable_select_profile_pic">Unable to set profile image. Please try again!</string>
+
+    <string name="lbl_set_profile_photo">Set profile image</string>
+
+    <string name="lbl_take_camera_picture">Take a picture</string>
+
+    <string name="lbl_take_scan_document">Select to scan document</string>
+
+    <string name="lbl_choose_from_gallery">Choose from gallery</string>
+
+    <string name="toast_image_intent_null">Image picker option is missing!</string>
+    <!-- font families -->
+
+    <string name="font_family_light">sans-serif-light</string>
+
+    <string name="font_family_medium">sans-serif-medium</string>
+
+    <string name="font_family_regular">sans-serif</string>
+
+    <string name="font_family_condensed">sans-serif-condensed</string>
+
+    <string name="font_family_black">sans-serif-black</string>
+    <string name="welfare_check_every">Welfare Check Every</string>
+
+    <string name="font_family_thin">sans-serif-thin</string>
+    <string name="edit"> Edit </string>
+    <string name="dialog_permission_title">Grant Permissions</string>
+    <string name="toggle_button_text">Please press the volume up and volume down button to configure.</string>
+
+    <string name="dialog_permission_message">This app needs permission to use this feature. You can grant them in app settings.</string>
+    <string name="headphone_unplug">Headphone</string>
+    <string name="device_shake">Shake</string>
+    <string name="go_to_settings">GOTO SETTINGS</string>
+    <string name="welfare_checkin">Welfare</string>
+    <string name="logout_duress">You will be logged out of all the duress functionalities.</string>
+    <string name="logout_duress_continued">Are you sure you want to logout?</string>
+    <string name="location">Location</string>
+    <string name="toggle">Toggle</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="welcome_back">Welcome back \n you have unread messages</string>
+    <string name="title_activity_home">Quiz App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+</resources>
