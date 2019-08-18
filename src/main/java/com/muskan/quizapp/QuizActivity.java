@@ -27,7 +27,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-
 public class QuizActivity extends AppCompatActivity implements View.OnClickListener {
 
     TextView OptionA, OptionB, OptionC, OptionD, Question, Explanation;
