@@ -15,7 +15,7 @@ search friends
 ---------------
 profile
 -----------------
-Questions with options in each category
+Questions with options in each category with Timer of 15 seconds
 ----------------------------------------
 Result
 --------------------------------------
