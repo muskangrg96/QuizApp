@@ -1,9 +1,5 @@
 # QuizApp
 This is Application based on Quiz with different Categories and other functionalities
-
-
-not a complete app
-
 ------------------
 Working features:
 ------------------
@@ -21,3 +17,11 @@ profile
 -----------------
 Questions with options in each category
 ----------------------------------------
+Result
+--------------------------------------
+Share result with Friends
+-------------------------------
+View shared Result
+--------------------------
+Logout
+------------------
